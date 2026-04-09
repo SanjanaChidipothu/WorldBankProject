@@ -130,6 +130,7 @@ Strong Power BI & DAX skills
 Ability to translate data into business insights
 Handling real-world data quality issues
 Building executive-ready dashboards
+
 📬 About Me
 
 I’m a Data Analyst with experience in:
